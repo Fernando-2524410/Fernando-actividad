@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores CESBA -->
+    <color name="azul">#003366</color>
+    <color name="azul_claro">#0059B3</color>
+    <color name="naranja">#F05B21</color>
+    <color name="fondo">#121212</color>
+    <color name="texto">#FFFFFF</color>
+</resources>
